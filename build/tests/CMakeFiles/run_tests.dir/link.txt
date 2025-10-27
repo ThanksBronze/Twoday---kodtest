@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run_tests.dir/test_pricing.cpp.o CMakeFiles/run_tests.dir/test_dataHandler.cpp.o CMakeFiles/run_tests.dir/test_ParkingLot.cpp.o CMakeFiles/run_tests.dir/test_ParkingService.cpp.o CMakeFiles/run_tests.dir/main.cpp.o -o run_tests  ../src/libparking_core.a 

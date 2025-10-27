@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparking_core.a CMakeFiles/parking_core.dir/FlatPricing.cpp.o CMakeFiles/parking_core.dir/InMemoryParkingDataHandler.cpp.o CMakeFiles/parking_core.dir/ParkingLot.cpp.o CMakeFiles/parking_core.dir/ParkingService.cpp.o CMakeFiles/parking_core.dir/SystemClock.cpp.o CMakeFiles/parking_core.dir/TestClock.cpp.o
+/usr/bin/ranlib libparking_core.a

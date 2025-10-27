@@ -1,0 +1,11 @@
+/home/ballbin/Intervjutester/twoday/build/CMakeFiles/test.dir
+/home/ballbin/Intervjutester/twoday/build/CMakeFiles/edit_cache.dir
+/home/ballbin/Intervjutester/twoday/build/CMakeFiles/rebuild_cache.dir
+/home/ballbin/Intervjutester/twoday/build/src/CMakeFiles/parking_core.dir
+/home/ballbin/Intervjutester/twoday/build/src/CMakeFiles/test.dir
+/home/ballbin/Intervjutester/twoday/build/src/CMakeFiles/edit_cache.dir
+/home/ballbin/Intervjutester/twoday/build/src/CMakeFiles/rebuild_cache.dir
+/home/ballbin/Intervjutester/twoday/build/tests/CMakeFiles/run_tests.dir
+/home/ballbin/Intervjutester/twoday/build/tests/CMakeFiles/test.dir
+/home/ballbin/Intervjutester/twoday/build/tests/CMakeFiles/edit_cache.dir
+/home/ballbin/Intervjutester/twoday/build/tests/CMakeFiles/rebuild_cache.dir
